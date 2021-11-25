@@ -1,1 +1,4 @@
-References
+References:
+Front End development with Flutter
+https://www.youtube.com/watch?v=DCskd6_GJtY&t=39s
+https://github.com/TechieBlossom/training_diet_app
